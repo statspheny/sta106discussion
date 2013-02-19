@@ -1,0 +1,1 @@
+mydata = read.table("CH18PR17.txt")
